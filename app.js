@@ -18,7 +18,7 @@ var VertexShaderText =
 
 var FragmentShaderText = 
 [
-'precision mediump float;',
+'precision highp float;',
 '',
 'varying vec3 fragColor;',
 'void main()',
